@@ -6,4 +6,6 @@ I write JavaScript, TypeScript and have been grinding on Next.js a bunch recentl
 
 I love technology, tabletop boardgames, and a foodie at ❤.
 
-I'm a coding bootcamp graduate and I love talking to new programmers. Feel free to reach out!
+I'm a coding bootcamp graduate and I love talking about programming. 
+
+How can I help? Feel free to reach out!
