@@ -1,6 +1,6 @@
 Hello there! 👋
 
-I'm a Fullstack developer. 
+I am a Fullstack developer. 
 
 I write JavaScript, TypeScript and have been grinding on Next.js and Prisma lately.
 
